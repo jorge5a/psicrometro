@@ -1,6 +1,8 @@
 
 //Must work between 10 and 24 C
-
+//Ter seco a pin 4
+//Term humedo a pin 5
+//Output (PWM) pin 6
 
 #include <OneWire.h>
 #include <DallasTemperature.h>
