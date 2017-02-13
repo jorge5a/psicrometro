@@ -1,4 +1,4 @@
-#include <WProgram.h>
+#include <Arduino.h>
 #include <DallasTemperature.h>    
 #include <OneWire.h>
 #include <Wire.h>
